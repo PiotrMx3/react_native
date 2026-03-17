@@ -35,10 +35,6 @@ export default function App() {
       >
         <Text style={styles.buttonText}>Play</Text>
       </Pressable>
-
-      <View>
-        <Text>siema</Text>
-      </View>
     </View>
   );
 }
